@@ -1,27 +1,28 @@
 # DESIGN-AND-SIMULATION-OF-TEMPERATURE-SENSOR-CIRCUIT
 # AIM
-![WhatsApp Image 2025-11-21 at 21 10 53_57b77cb7](https://github.com/user-attachments/assets/fb5b0120-7834-4c4c-b345-80252ceb6130)
+<img width="1600" height="535" alt="image" src="https://github.com/user-attachments/assets/e1ed9869-523e-43e1-8363-24fc9ee74093" />
 
 # COMPONENT REQUIRED
-![WhatsApp Image 2025-11-21 at 21 11 22_1619e915](https://github.com/user-attachments/assets/7a79c273-1234-483e-ba97-e55a82c9d555)
+<img width="1342" height="1123" alt="image" src="https://github.com/user-attachments/assets/0b5a6add-e547-4532-91ae-31c31b20f8e2" />
+
 # SOFTWARE REQUIRED 
-![WhatsApp Image 2025-11-21 at 21 11 45_487591c6](https://github.com/user-attachments/assets/584d023b-dab9-49c4-91e4-fb309f16756d)
+
+<img width="1151" height="507" alt="image" src="https://github.com/user-attachments/assets/93d13a3d-7d56-40a8-8b75-923091c0b77d" />
 
 # THEORY
+<img width="1600" height="903" alt="image" src="https://github.com/user-attachments/assets/fa3ca3a8-5f2e-45e7-8c18-310dbad4935d" />
 
-![WhatsApp Image 2025-11-21 at 21 12 06_4921e7a2](https://github.com/user-attachments/assets/4d30a941-7bee-4e01-b0db-dc0930ae3829)
 
 # PROCEDURE 
 
-![WhatsApp Image 2025-11-21 at 21 12 15_6d56f87c](https://github.com/user-attachments/assets/cd4600c6-8d7d-40ad-975e-cb652f825493)
+<img width="852" height="1280" alt="image" src="https://github.com/user-attachments/assets/0a805fce-6464-4469-bcef-4d18c25d3631" />
 
 # CIRCUIT DIAGRAM
+<img width="1600" height="1488" alt="image" src="https://github.com/user-attachments/assets/f06368c1-860c-4b1a-b904-178bcf1ce613" />
 
-![WhatsApp Image 2025-11-21 at 21 13 08_639ebcf6](https://github.com/user-attachments/assets/b76b059d-dcba-4a03-acae-002ac239ec23)
 
 
 # RESULT
-![WhatsApp Image 2025-11-21 at 21 13 09_ae881650](https://github.com/user-attachments/assets/c6eca472-401f-4d11-91f7-21cda731318d)
-
+<img width="1600" height="915" alt="image" src="https://github.com/user-attachments/assets/e4d1dbc5-7924-4901-96d2-19a7a1842a15" />
 
 
